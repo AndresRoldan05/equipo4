@@ -17,7 +17,7 @@
        <div>
           <div>
             <label>Nombre :</label>
-            <input> type= "text" id="usuario" placeholder="usuario"</input>
+            <input type= "text" id="usuario" placeholder="usuario"/> 
           </div>
           <div>
             <label>Mensaje :</label>
