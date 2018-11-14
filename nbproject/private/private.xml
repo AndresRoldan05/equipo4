@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/src/java/com/udea/Controller/UsuariosController.java</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/web/registrar.jsp</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/src/java/com/udea/ejb/DecoderMensaje.java</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/web/usuario.jsp</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/web/listaUsuarios.jsp</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/src/java/com/udea/ejb/UserFacadeLocal.java</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/web/login.jsp</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/src/java/com/udea/ejb/EncoderMensaje.java</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/web/index.jsp</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/web/chat.jsp</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/src/java/com/udea/model/User.java</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/src/java/com/udea/Controller/MiChat.java</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/web/index.html</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/src/java/com/udea/model/Mensaje.java</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/src/java/com/udea/ejb/AbstractFacade.java</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/src/java/com/udea/ejb/UserFacade.java</file>
+            <file>file:/C:/Users/Andres/Desktop/proyecto/LeccionesAprendidas/web/menu.jsp</file>
+        </group>
+    </open-files>
+</project-private>
